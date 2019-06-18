@@ -1,8 +1,8 @@
 # ItChat
 By using Python third-party library itchat to achieve code control WeChat to send messages, automatic replies, group messages, and so on. Part of the code also uses tkinter for interface design.
 
-## [mass or not](https://github.com/24449121522521/ItChat/mass_or_not.py)
-You can learn from the "mass or not.py" file how to use Python+itchat to reply to WeChat friends' messages individually or send messages to WeChat friends.
+## [mass_or_not](mass_or_not.py)
+You can learn from the "mass_or_not.py" file how to use Python+itchat to reply to WeChat friends' messages individually or send messages to WeChat friends.
 
 ## Tuling_robot
 You can learn from "Tuling_robot.py" how to use Python+itchat+ Turing robot to automatically reply to WeChat friends' messages.
